@@ -3,7 +3,7 @@
  */
 public class leetcode27移除元素 {
     //答案中的6ms
-    public int removeElement(int[] nums, int val) {
+    public int removeElement(int[] nums, int val,int ans2) {
         if (nums == null) {
             return -1;
         }
